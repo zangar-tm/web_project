@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32ad26fb-8832-4e11-93d5-610aa41858db" name="Default Changelist" comment="Merge remote-tracking branch 'origin/front_dev' into front_dev&#10;&#10;# Conflicts:&#10;#&#9;aliexpress/src/app/account-page/account-page.component.html">
+      <change beforePath="$PROJECT_DIR$/alikexpress/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alikexpress/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alikexpress/aliexpress/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/alikexpress/aliexpress/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alikexpress/aliexpress/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/alikexpress/aliexpress/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alikexpress/aliexpress/src/app/top-bar/top-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/alikexpress/aliexpress/src/app/top-bar/top-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alikexpress/shop_back/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/alikexpress/shop_back/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/alikexpress" value="front_dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/alikexpress" />
+  </component>
+  <component name="ProjectId" id="1aIdhKJT24OVkWKa4BuBPc22pmh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32ad26fb-8832-4e11-93d5-610aa41858db" name="Default Changelist" comment="" />
+      <created>1586427159791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586427159791</updated>
+      <workItem from="1586427161033" duration="7782000" />
+      <workItem from="1586453942665" duration="5845000" />
+      <workItem from="1586535981573" duration="6737000" />
+      <workItem from="1586588828116" duration="23486000" />
+      <workItem from="1587054793429" duration="70000" />
+      <workItem from="1587059039684" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1588090553889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588090553889" />
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1586457118417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586457118417" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1587059089740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587059089740" />
+    <state x="0" y="61" width="1366" height="606" key="MergeDialog" timestamp="1586457512532">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="61" width="1366" height="606" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586457512532" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1586457512546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586457512546" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1586456863858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586456863858" />
+    <state x="418" y="99" key="VcsDiffUtil.ChangesDialog" timestamp="1586457780851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="418" y="99" key="VcsDiffUtil.ChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586457780851" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588242522666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588242522666" />
+  </component>
+</project>
